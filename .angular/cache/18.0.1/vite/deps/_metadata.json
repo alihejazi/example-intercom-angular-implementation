@@ -1,0 +1,34 @@
+{
+  "hash": "bd21b107",
+  "configHash": "471cea15",
+  "lockfileHash": "50a58af0",
+  "browserHash": "9bf54048",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "96a9d5eb",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "f6356490",
+      "needsInterop": false
+    },
+    "@intercom/messenger-js-sdk": {
+      "src": "../../../../../node_modules/@intercom/messenger-js-sdk/dist/index.js",
+      "file": "@intercom_messenger-js-sdk.js",
+      "fileHash": "b9f2b405",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-BLIBLZYS": {
+      "file": "chunk-BLIBLZYS.js"
+    },
+    "chunk-WKYGNSYM": {
+      "file": "chunk-WKYGNSYM.js"
+    }
+  }
+}
